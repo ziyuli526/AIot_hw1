@@ -5,6 +5,7 @@ This project is a local Python-based AIoT system designed to receive, store, and
 <img width="1000" height="522" alt="image" src="https://github.com/user-attachments/assets/27d7c34b-2a6c-4928-b3b1-a791f428cc5f" />
 <img width="1000" height="673" alt="image" src="https://github.com/user-attachments/assets/249be0cb-09e2-4645-97a6-ec538460c96b" />
 
+Local Website Link: http://localhost:8501 (Ensure services are running)
 
 
 ## Project Structure
