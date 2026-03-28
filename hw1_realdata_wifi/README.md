@@ -1,6 +1,11 @@
 # AIoT Real-Time Sensor Dashboard
 
 This project is a local Python-based AIoT system designed to receive, store, and visualize real-time data from a real ESP32 hardware device equipped with a DHT11 sensor.
+<img width="1000" height="557" alt="image" src="https://github.com/user-attachments/assets/b5d55e21-fed9-4b1c-bf7e-fb38e866fd20" />
+<img width="1000" height="522" alt="image" src="https://github.com/user-attachments/assets/27d7c34b-2a6c-4928-b3b1-a791f428cc5f" />
+<img width="1000" height="673" alt="image" src="https://github.com/user-attachments/assets/249be0cb-09e2-4645-97a6-ec538460c96b" />
+
+
 
 ## Project Structure
 
